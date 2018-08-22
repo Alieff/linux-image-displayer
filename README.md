@@ -9,7 +9,9 @@ Show image in Linux Desktop that use Xorg as display manager
 ## Usage : 
 1. Change image path according to your system
 2. execute 
-    `python splash.py`
+    `python splash.py <your_image_path>`
+3. result example : 
+![Example](demo.png)
 
 ## Installation :
 
